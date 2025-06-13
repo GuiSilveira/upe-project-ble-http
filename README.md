@@ -41,9 +41,9 @@ Este projeto é um sistema de monitoramento e detecção de dispositivos Bluetoo
 
 ## Imagens do Projeto
 
-![Imagem do Projeto 1](https://github.com/GuiSilveira/upe-project-ble-http/raw/main/images/ble-detected-devices-web.png)
-![Imagem do Projeto 2](https://github.com/GuiSilveira/upe-project-ble-http/raw/main/images/ble-serial-monitor.png)
-![Imagem do Projeto 3](https://github.com/GuiSilveira/upe-project-ble-http/raw/main/images/esp32-display-oled.jpeg)
+![Imagem do Projeto 1](images/esp32-display-oled.jpeg)
+![Imagem do Projeto 2](images/ble-detected-devices-web.png)
+![Imagem do Projeto 3](images/ble-serial-monitor.png)
 
 ## Link para a publicação no Hackster.io
 
